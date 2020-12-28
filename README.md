@@ -1,2 +1,2 @@
 # coursera-mod2-solution
-mod2 assignment of coursera" html css js" course.
+coursera course:HTML,CSS,JavaScript for web developers, modeule 2 coding assignment.
